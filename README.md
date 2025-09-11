@@ -24,9 +24,7 @@
 
 ## Задание SymPy/SciPy (делать в Google Colab)
 
-[Шпаргалка](https://colab.research.google.com/drive/1ccx9SwfcsunKXU-M_9WqPZAMH8x8ctss#scrollTo=_qc7rPZO8P9I)
-
-[Задание](https://colab.research.google.com/drive/19CCzK9Y1pHCnXA-P9qUZceVdf8Af-Cl7)
+[Шпаргалка](https://colab.research.google.com/drive/1ccx9SwfcsunKXU-M_9WqPZAMH8x8ctss)
 
 [Выстрел вверх без сопротивления](https://colab.research.google.com/drive/1dVTC9Meg3l50QJN8B_ski7PJVaOJDA6w)
 
